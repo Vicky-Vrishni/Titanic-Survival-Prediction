@@ -1,8 +1,8 @@
-Titanic Survival Prediction Using Machine Learning
+# Titanic Survival Prediction Using Machine Learning
 
 Predict whether a passenger survived the Titanic disaster using machine learning models on the classic Titanic dataset. This project involves data cleaning, feature engineering, exploratory data analysis (EDA), and a Random Forest classifier to achieve strong accuracy in survival prediction.
 
-Table of Contents
+## Table of Contents
 
 - overview
 - features
@@ -13,11 +13,11 @@ Table of Contents
 - license
 - contact
 
-Overview
+## Overview
 
 This repository focuses on predicting the survival of Titanic passengers using machine learning techniques. The approach includes thorough exploratory data analysis, data preprocessing to handle missing values, feature engineering, and training a Random Forest classifier that achieves 83.8% accuracy on the training set.
 
-Features
+## Features
 
 - Complete data preprocessing and cleaning pipeline
 - Handling of missing values using imputation techniques
@@ -26,7 +26,7 @@ Features
 - Random Forest classification model
 - Model evaluation and accuracy reporting
 
-Project Structure
+## Project Structure
 ```
 Titanic-Survival-Prediction/
 │
@@ -36,7 +36,7 @@ Titanic-Survival-Prediction/
 ├── README.md                           
 └── requirements.txt                    
 ```
-Installation
+# Installation
 
 1. Clone the repository
 ```
@@ -51,7 +51,7 @@ cd Titanic-Survival-Prediction
 pip install -r requirements.txt
 ```
 
-Dependencies
+## Dependencies
 
 - Python 3.x
 - Pandas
@@ -61,9 +61,14 @@ Dependencies
 - Seaborn
 - Jupyter Notebook
 
-Results
+## Results
 
 The Random Forest classifier was trained on the Titanic dataset and achieved an accuracy of **83.8%** on the training set. Data preprocessing, imputation, and feature engineering played a major role in reaching this performance.
+
+## Contact
+__skvickyyadav942@gmail.com__
+__https://www.linkedin.com/feed/__
+
 
 Thank you for checking out the Titanic Survival Prediction project! Feel free to explore and contribute.
 
