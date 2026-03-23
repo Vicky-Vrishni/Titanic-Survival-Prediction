@@ -1,17 +1,17 @@
-# Titanic Survival Prediction Using Machine Learning
+# 🚢 Titanic Survival Prediction Using Machine Learning
 
 Predict whether a passenger survived the Titanic disaster using machine learning models on the classic Titanic dataset. This project involves data cleaning, feature engineering, exploratory data analysis (EDA), and a Random Forest classifier to achieve strong accuracy in survival prediction.
 
 ## Table of Contents
 
-- overview
-- features
-- project-structure
-- installation
-- dependencies
-- results
-- license
-- contact
+- [Overview](#overview)
+- [Features](#features)
+- [Project Structure](#project-structure)
+- [Installation](#installation)
+- [Dependencies](#dependencies)
+- [Results](#results)
+- [License](#license)
+- [Contact](#contact)
 
 ## Overview
 
@@ -30,17 +30,18 @@ This repository focuses on predicting the survival of Titanic passengers using m
 ```
 Titanic-Survival-Prediction/
 │
-├── titanic_survival_prediction.ipynb   
-├── dataset/                            
+├── titanic_survival_prediction.ipynb   # Main Jupyter Notebook
+├── dataset/                            # Dataset folder
 │   └── train.csv
-├── README.md                           
-└── requirements.txt                    
+├── README.md                           # Project documentation
+└── requirements.txt                    # Dependencies
 ```
-# Installation
+
+##  Installation
 
 1. Clone the repository
 ```
-git clone https://github.com/Vicky-Vrishni/Titanic-Survival-Prediction.git
+git clone https://github.com/VickyKumar/Titanic-Survival-Prediction.git
 ```
 2. Navigate to the project folder
 ```
@@ -65,10 +66,10 @@ pip install -r requirements.txt
 
 The Random Forest classifier was trained on the Titanic dataset and achieved an accuracy of **83.8%** on the training set. Data preprocessing, imputation, and feature engineering played a major role in reaching this performance.
 
+
 ## Contact
-__skvickyyadav942@gmail.com__
-__https://www.linkedin.com/feed/__
 
+Github: _https://github.com/Vicky-Vrishni_ | Email: _skvickyyadav942@gmail.com_ | LinkedIn: _https://www.linkedin.com/feed/_
 
-Thank you for checking out the Titanic Survival Prediction project! Feel free to explore and contribute.
-
+**Vicky Kumar**  
+GitHub: [VickyKumar](https://github.com/VickyKumar)
