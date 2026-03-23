@@ -69,9 +69,6 @@ The Random Forest classifier was trained on the Titanic dataset and achieved an 
 
 ## Contact
 
-[<img width="474" height="474" alt="image" src="https://github.com/user-attachments/assets/2ba3d78f-162e-4c2c-93e9-88b9adaa4319" />
-](skvickyyadav942@gmail.com) 
-[<img width="148" height="148" alt="image" src="https://github.com/user-attachments/assets/a1a3792c-7dbd-4da5-a252-516d75c6d884" />
-](https://www.linkedin.com/feed/)
-[<img width="209" height="148" alt="image" src="https://github.com/user-attachments/assets/62648617-ffba-466b-b7eb-e1abfaae109a" />
-](https://github.com/VickyKumar)
+[Mail](skvickyyadav942@gmail.com) 
+[linkedIn](https://www.linkedin.com/feed/)
+[GitHub](https://github.com/VickyKumar)
