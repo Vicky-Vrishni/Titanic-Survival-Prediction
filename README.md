@@ -69,7 +69,6 @@ The Random Forest classifier was trained on the Titanic dataset and achieved an 
 
 ## Contact
 
-Github: _https://github.com/Vicky-Vrishni_ | Email: _skvickyyadav942@gmail.com_ | LinkedIn: _https://www.linkedin.com/feed/_
+Email: [Vikky Kumar](skvickyyadav942@gmail.com) | LinkedIn: [Vikky Kumar](https://www.linkedin.com/feed/)
 
-**Vicky Kumar**  
-GitHub: [VickyKumar](https://github.com/VickyKumar)
+GitHub: [Vicky Kumar](https://github.com/VickyKumar)
