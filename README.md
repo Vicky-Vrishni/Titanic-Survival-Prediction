@@ -67,7 +67,7 @@ pip install -r requirements.txt
 The Random Forest classifier was trained on the Titanic dataset and achieved an accuracy of **83.8%** on the training set. Data preprocessing, imputation, and feature engineering played a major role in reaching this performance.
 
 
-## Contact
+## Contacts
 
 [Mail](skvickyyadav942@gmail.com) 
 [linkedIn](https://www.linkedin.com/feed/)
